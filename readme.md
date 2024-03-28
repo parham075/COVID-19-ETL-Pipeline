@@ -6,4 +6,4 @@ The Architecture of this data engineering project is provide as below:
 
 
 ### Fact Table:
-![alt text](data_model/COVID-19.drawio.png)
+![alt text](<data_model/COVID-19-Data Model.drawio.png>)
